@@ -70,10 +70,7 @@ streamlit run app.py
 and then open link 
 
 ## To Do
-1. Add More Architecture Options
-2. Add another loss functions options
-3. More flexibility to choose parameters
-4. Generated Video is not very much impressive , so correct it.
+1. Also add an option of video  stream  to detect .
 
 
 
