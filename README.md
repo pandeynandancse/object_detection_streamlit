@@ -17,27 +17,20 @@ A web app that shows the use of pretrained  caffemodel
 
 ## Demo
 
-![](https://i.imgur.com/JNfwo9B.jpg)
+![](https://i.imgur.com/jodJyw2.png)
 
 
 
 ## Overview
-A web Application developed via streamlit for neural style transfer using Tensorflow . It provides flexibility to experiment with various ways. You can set various parameters of your choice and can see different different results.
-
+A web Application developed via streamlit for object detection. It uses pretrained MobileNet caffee model.
 
 ## Directory Tree 
 ```
 
 ├── images
-|    ├── content_images
-|    ├── style_images
-|    ├── logo_image
-├── outputs
-|    ├── images
-|    ├── videos
 ├── README.md
 ├── activation.bat
-├── final.py
+├── app.py
 ├── requirements.txt
 
 ```
@@ -72,7 +65,7 @@ pip install -r requirements.txt
 1. After successfull installation windows user can directly open the link that will be appeared
 2. After successful installation open type
 ```bash
-streamlit run final.py
+streamlit run app.py
  ```
 and then open link 
 
@@ -113,7 +106,7 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
 ## Credits
-Special Thanks to Tensorflow for it's wonderful tutorial : https://www.tensorflow.org/tutorials/generative/style_transfer
+
 
 
  
