@@ -41,7 +41,7 @@ toolz==0.10.0
 tornado==5.1.1
 typed-ast==1.4.1
 tzlocal==2.1
-urllib3==1.25.10
+urllib3==1.26.5
 validators==0.16.0
 watchdog==0.10.3
 zipp==3.1.0
