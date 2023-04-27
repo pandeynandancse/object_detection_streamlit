@@ -22,7 +22,7 @@ jmespath==0.10.0
 jsonschema==3.2.0
 MarkupSafe==1.1.1
 numpy==1.19.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 pandas==1.0.5
 pathspec==0.8.0
 pathtools==0.1.2
